@@ -1,0 +1,111 @@
+{
+    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
+        "id": "f2f05712-f16b-4518-9559-0bfbbaadf521",
+        "name": "Charts",
+        "designId": "d3081fbb-ef67-4618-8682-b4fc7b4e8d19",
+        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
+        "publicData": {}
+    },
+    "fdf6b667-9515-4086-87ef-6042fc6f20fb": {
+        "id": "d27e092a-84a7-4f4e-935d-49383c7c56eb",
+        "name": "Google Sheets",
+        "designId": "d3081fbb-ef67-4618-8682-b4fc7b4e8d19",
+        "pluginId": "fdf6b667-9515-4086-87ef-6042fc6f20fb",
+        "publicData": {}
+    },
+    "d66a250d-8468-469e-ad33-ee028f632398": {
+        "id": "cf1ed88d-cb05-4bf4-a27f-98f9e2efaa53",
+        "name": "OpenAI",
+        "designId": "d3081fbb-ef67-4618-8682-b4fc7b4e8d19",
+        "pluginId": "d66a250d-8468-469e-ad33-ee028f632398",
+        "publicData": {}
+    },
+    "ee24f5ac-e15e-4ddd-baa4-0b4baedf90c9": {
+        "id": "6a521e64-5bf5-4dfb-8b35-2c041c603f52",
+        "name": "CSV",
+        "designId": "d3081fbb-ef67-4618-8682-b4fc7b4e8d19",
+        "pluginId": "ee24f5ac-e15e-4ddd-baa4-0b4baedf90c9",
+        "publicData": {}
+    },
+    "832d6f7a-42c3-43f1-a3ce-9a678272f811": {
+        "id": "84bc5fff-6308-4e12-bfab-a6cc0b2332b0",
+        "name": "Date",
+        "designId": "d3081fbb-ef67-4618-8682-b4fc7b4e8d19",
+        "pluginId": "832d6f7a-42c3-43f1-a3ce-9a678272f811",
+        "publicData": {
+            "favoriteFormat": "YYYY-MM-DD"
+        }
+    },
+    "36816525-6e0d-4217-b792-19f5d8682c46": {
+        "id": "1cd3fcea-6ade-4542-83ec-3cefc4855208",
+        "name": "GraphQL",
+        "designId": "d3081fbb-ef67-4618-8682-b4fc7b4e8d19",
+        "pluginId": "36816525-6e0d-4217-b792-19f5d8682c46",
+        "publicData": {}
+    },
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "24fa2c24-02a5-46d3-8b96-a34cc6322d0f",
+        "name": "REST API",
+        "designId": "d3081fbb-ef67-4618-8682-b4fc7b4e8d19",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "69d4a5bb-09a3-4f3d-a94e-667c21c057eb": {
+        "id": "48dd2c55-83f1-4e41-b430-2e1fc22aa90d",
+        "name": "NPM",
+        "designId": "d3081fbb-ef67-4618-8682-b4fc7b4e8d19",
+        "pluginId": "69d4a5bb-09a3-4f3d-a94e-667c21c057eb",
+        "publicData": {}
+    },
+    "e93a2dfd-9b19-473e-b445-c666fed4e14a": {
+        "id": "52a654ca-92f3-44e1-abe7-059937e50f92",
+        "name": "Auth0",
+        "designId": "d3081fbb-ef67-4618-8682-b4fc7b4e8d19",
+        "pluginId": "e93a2dfd-9b19-473e-b445-c666fed4e14a",
+        "publicData": {}
+    },
+    "66a79c98-70e7-4bc4-8859-20776b024ec2": {
+        "id": "4024d857-e050-4801-bfc2-fc9596afec16",
+        "name": "PWA",
+        "designId": "d3081fbb-ef67-4618-8682-b4fc7b4e8d19",
+        "pluginId": "66a79c98-70e7-4bc4-8859-20776b024ec2",
+        "publicData": {}
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "a9152b9d-870a-47c6-ba10-1b36951c5eea",
+        "name": "Supabase Auth",
+        "designId": "d3081fbb-ef67-4618-8682-b4fc7b4e8d19",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind5a21xdmt1cGV1dWt6anp0Ym5oIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzA0NjkxOTQsImV4cCI6MjA0NjA0NTE5NH0.2fcxxTY-FJ0-6EGlWT1XZYOWC3Qb-CsiHMoh5quMjFQ",
+            "roleType": "string",
+            "projectUrl": "https://wykmqvkupeuukzjztbnh.supabase.co"
+        }
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "66264e30-3d7e-4dde-8ecb-9e4d47621afc",
+        "name": "Supabase",
+        "designId": "d3081fbb-ef67-4618-8682-b4fc7b4e8d19",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind5a21xdmt1cGV1dWt6anp0Ym5oIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzA0NjkxOTQsImV4cCI6MjA0NjA0NTE5NH0.2fcxxTY-FJ0-6EGlWT1XZYOWC3Qb-CsiHMoh5quMjFQ",
+            "projectUrl": "https://wykmqvkupeuukzjztbnh.supabase.co",
+            "realtimeTables": {
+                "user": true,
+                "cliente": true,
+                "empresa": true,
+                "eventos": true,
+                "produtos": true,
+                "orcamento": true,
+                "evo_messages": true,
+                "evo_conversas": true,
+                "evo_lastsender": true,
+                "categorias eventos": true,
+                "historico produtos": true,
+                "categorias clientes": true,
+                "categorias produtos": true,
+                "total_eventos_por_mes": true
+            }
+        }
+    }
+}
